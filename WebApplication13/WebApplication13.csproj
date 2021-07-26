@@ -1356,9 +1356,11 @@
     <Content Include="img\icons\32\user.png" />
     <Content Include="img\icons\32\wallet.png" />
     <Content Include="img\icons\32\web.png" />
+    <Content Include="img\img.bg.jpg" />
     <Content Include="img\imac1.png" />
     <Content Include="img\ipad.png" />
     <Content Include="img\iPad2.png" />
+    <Content Include="img\ipadpromotion.jpg" />
     <Content Include="img\iphonex.png" />
     <Content Include="img\larrow.png" />
     <Content Include="img\line.png" />
@@ -1382,6 +1384,7 @@
     <Content Include="img\spinner.gif" />
     <Content Include="img\sprite.png" />
     <Content Include="img\table.png" />
+    <Content Include="img\thinkpad.jpg" />
     <Content Include="img\vue.png" />
     <Content Include="Scripts\Admin\bootstrap-colorpicker.js" />
     <Content Include="Scripts\Admin\bootstrap-datepicker.js" />

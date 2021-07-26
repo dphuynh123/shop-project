@@ -23,6 +23,7 @@ namespace WebApplication13.Models
         public DbSet<CTPhieuChuyenKho> CTPhieuChuyenKhos { get; set; }
         public DbSet<TrangThai> TrangThais { get; set; }
 
+
         public ApplicationDbContext() : base("DefaultConnection", throwIfV1Schema: false)
         {
 
@@ -37,3 +38,13 @@ namespace WebApplication13.Models
         }
     }
 }
+
+//instal entity framework
+//init dbcontext
+//create model
+//add model to dbcontext by Dbset<>
+//enable migration(s)
+//migration + name => generate T-SQL code.
+//Update-database
+
+//EF Database first. code first, model first
